@@ -180,4 +180,4 @@ declare namespace daterangepicker {
 }
 
 export = daterangepicker;
-export as namespace daterangepicker;
+//export as namespace daterangepicker;
